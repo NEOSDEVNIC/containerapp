@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "containerapp", "containerapp.csproj", "{BFBBD0D7-526A-A916-44C6-495DBAE3469B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBBD0D7-526A-A916-44C6-495DBAE3469B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBBD0D7-526A-A916-44C6-495DBAE3469B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBBD0D7-526A-A916-44C6-495DBAE3469B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBBD0D7-526A-A916-44C6-495DBAE3469B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6C58BA-7E54-45EE-B2BA-3666827F759E}
+	EndGlobalSection
+EndGlobal
